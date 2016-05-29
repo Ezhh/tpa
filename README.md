@@ -10,7 +10,7 @@ tpa Command
 -----------
 
 "tpa" or,  more formally, Minetest "tpa" mod, is a mod,  or extension,
-for Minetest 0.4.13 or above that adds "chat" commands in the format "/tpa <area number>", using "areas" mod area numbers. For example:
+for Minetest 0.4.13 or above that adds "chat" commands in the format "/tpa < area number >", using "areas" mod area numbers. For example:
 
 /tpa 10
 
