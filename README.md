@@ -34,7 +34,7 @@ bility and lets people with the "teleport" privilege use "/tpa":
 
 tpamode = teleport
 
-Note: Use of teleport or lax tpamodes lacks check for noclip priv and users may be trapped in solid nodes.
+Note: Use of default or teleport tpamode may cause the player to appear inside solid nodes. Noclip or teleport should be utilised to escape. Use of lax tpamode triggers additional checks to adjust placement and prevent appearance inside solid nodes.
 
 Installation
 ------------
